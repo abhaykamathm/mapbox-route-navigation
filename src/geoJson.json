@@ -1,0 +1,60 @@
+{
+  "features": [
+    {
+      "type": "camera",
+      "properties": {
+        "title": "Central Park",
+        "description": "An iconic park in the heart of Manhattan"
+      },
+      "geometry": {
+        "coordinates": [-73.968285, 40.785091],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Prospect Park",
+        "description": "A large park in Brooklyn with a beautiful lake"
+      },
+      "geometry": {
+        "coordinates": [-73.970889, 40.660204],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Park",
+        "description": "A park at the southern tip of Manhattan with views of the Statue of Liberty"
+      },
+      "geometry": {
+        "coordinates": [-74.016869, 40.703128],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "High Line Park",
+        "description": "A unique elevated park built on a former railway track"
+      },
+      "geometry": {
+        "coordinates": [-74.005974, 40.747119],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flushing Meadows-Corona Park",
+        "description": "Home to the Unisphere and site of the 1964 World's Fair"
+      },
+      "geometry": {
+        "coordinates": [-73.844246, 40.746959],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

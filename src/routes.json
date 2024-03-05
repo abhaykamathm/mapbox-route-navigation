@@ -1,0 +1,30 @@
+[
+  {
+    "route": "routeFromSt3",
+    "originLat": 17.448795,
+    "originLng": 78.359928,
+    "destinationLat": 17.451338,
+    "destinationLng": 78.347706
+  },
+  {
+    "route": "routeFromSt2",
+    "originLat": 17.444097,
+    "originLng": 78.367239,
+    "destinationLat": 17.451338,
+    "destinationLng": 78.347706
+  },
+  {
+    "route": "routeFromSt1",
+    "originLat": 17.434907,
+    "originLng": 78.368267,
+    "destinationLat": 17.451338,
+    "destinationLng": 78.347706
+  },
+  {
+    "route": "routeFromSt4",
+    "originLat": 17.439798,
+    "originLng": 78.359845,
+    "destinationLat": 17.451338,
+    "destinationLng": 78.347706
+  }
+]
